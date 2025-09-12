@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game",
+    "url": "https://ff.garena.com/en",
+    "icon": "https://play-lh.googleusercontent.com/h2JZ0k8s7R6pJjv0gukdxb0t8aAVmP0gl09TET9OJK2QyNqfYsm6v0kz6Z8Hc4v3hQ=s180",
+    "name": "فري فاير",
+    "creator": "Garena International"
   }
 ]
